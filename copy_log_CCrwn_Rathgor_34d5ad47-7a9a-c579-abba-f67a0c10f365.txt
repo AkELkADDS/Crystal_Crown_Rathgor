@@ -1,0 +1,348 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+   Mon 05/19/2025  4:19:01.21 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\2da0043c-9cbd-edb2-a537-95b7cb3abc5c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\30e6213d-5aca-ff0a-f976-c6bb6f8a00f5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\3f799f9e-da82-9710-c582-b1e10d52eb8d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\4ca5f748-f8b3-0798-9b75-df895b083e36.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\4d2ce6db-f04a-e676-87ae-67545e1c2669.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\55a148f9-ea75-a12d-808a-f79313954eb8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\aad604f0-cc91-a837-2518-d3c2b78f5d94.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\b562a715-d6f0-7fc0-0ede-7148dc7190f7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MRathgor_Jaw_CCrwn_ME.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 10 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MRathgor_Jaw_CCrwn_ME.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 1 
+ 
+[LOG] Total files found across all folders: 18 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 to Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using destination: Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:19:04 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     691	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
+	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   844.0 k   844.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           864358000 Bytes/sec.
+   Speed :           49458.961 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:19:04 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 to "Editor\Mods"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using destination: Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:19:06 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   65432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    63.8 k    63.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 4:19:06 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 to Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using destination: Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:19:07 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    6379	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
+	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\GUI\metadata.lsf100%  
+	    New File  		    4873	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   855.5 k   855.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           292020000 Bytes/sec.
+   Speed :           16709.518 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:19:07 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 to Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using destination: Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:19:09 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   47145	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\2da0043c-9cbd-edb2-a537-95b7cb3abc5c.lsf100%  
+	    New File  		    2813	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\30e6213d-5aca-ff0a-f976-c6bb6f8a00f5.lsf100%  
+	    New File  		    2815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\3f799f9e-da82-9710-c582-b1e10d52eb8d.lsf100%  
+	    New File  		    2813	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\4ca5f748-f8b3-0798-9b75-df895b083e36.lsf100%  
+	    New File  		    2815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\4d2ce6db-f04a-e676-87ae-67545e1c2669.lsf100%  
+	    New File  		    2814	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\55a148f9-ea75-a12d-808a-f79313954eb8.lsf100%  
+	    New File  		    2810	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\aad604f0-cc91-a837-2518-d3c2b78f5d94.lsf100%  
+	    New File  		    2812	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\b562a715-d6f0-7fc0-0ede-7148dc7190f7.lsf100%  
+	    New File  		  248256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MRathgor_Jaw_CCrwn_ME.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        11        11         1         0         0         0
+   Files :        10        10         0         0         0         0
+   Bytes :   310.4 k   310.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            79477000 Bytes/sec.
+   Speed :            4547.710 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:19:09 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 10 
+[DEBUG] Successfully copied files: 10 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 
+      Total files: 10 
+      Copied successfully: 10 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 to "Generated\Public"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[DEBUG] Using destination: Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:19:11 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  248256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MRathgor_Jaw_CCrwn_ME.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :   242.4 k   242.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           248256000 Bytes/sec.
+   Speed :           14205.322 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:19:11 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 10 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 18 
+[SUMMARY] Total files successfully copied: 36 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

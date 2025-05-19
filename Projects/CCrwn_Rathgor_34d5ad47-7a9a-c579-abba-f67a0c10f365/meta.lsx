@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="34d5ad47-7a9a-c579-abba-f67a0c10f365"/>
+            <attribute id="Name" type="LSString" value="CCrwn_Rathgor"/>
+            <attribute id="UUID" type="LSString" value="5bd0b87c-b185-52a2-54ee-6446861d0da8"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
