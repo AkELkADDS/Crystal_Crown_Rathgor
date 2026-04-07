@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
-   Tue 04/07/2026  5:02:55.27 
+   Tue 04/07/2026  5:10:57.13 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -612,7 +612,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 5:02:58 AM
+  Started : Tuesday, April 7, 2026 5:11:00 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -623,7 +623,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     691	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
-	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\thumbnail.png 91%  100%  
+	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\thumbnail.png100%  
 
 ------------------------------------------------------------------------------
 
@@ -636,7 +636,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           864358000 Bytes/sec.
    Speed :           49458.961 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 5:02:58 AM
+   Ended : Tuesday, April 7, 2026 5:11:00 AM
 
  
 [DEBUG] Counting source files 
@@ -662,7 +662,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 5:03:00 AM
+  Started : Tuesday, April 7, 2026 5:11:02 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -681,11 +681,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :   605.7 k   605.7 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           620332000 Bytes/sec.
-   Speed :           35495.681 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 5:03:00 AM
+   Ended : Tuesday, April 7, 2026 5:11:02 AM
 
  
 [DEBUG] Counting source files 
@@ -711,7 +707,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 5:03:02 AM
+  Started : Tuesday, April 7, 2026 5:11:04 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -721,7 +717,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    6379	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
+	    New File  		    6380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
 	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\GUI\metadata.lsf100%  
 	    New File  		   44587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Localization\English\english.xml100%  
@@ -735,9 +731,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           457887000 Bytes/sec.
-   Speed :           26200.504 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 5:03:02 AM
+   Speed :           457887500 Bytes/sec.
+   Speed :           26200.532 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:11:04 AM
 
  
 [DEBUG] Counting source files 
@@ -763,7 +759,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 5:03:04 AM
+  Started : Tuesday, April 7, 2026 5:11:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -1325,9 +1321,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           603988602 Bytes/sec.
-   Speed :           34560.505 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 5:03:04 AM
+   Speed :           610215288 Bytes/sec.
+   Speed :           34916.798 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:11:06 AM
 
  
 [DEBUG] Counting source files 
@@ -1353,7 +1349,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 5:03:06 AM
+  Started : Tuesday, April 7, 2026 5:11:08 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -1364,11 +1360,11 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		  639388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_CCrwn_MF.GR2100%  
-	    New File  		  248292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CCrwn_ME.GR2100%  
 	    New File  		   94600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_CCrwn_Chin_A.GR2100%  
 	    New File  		  302388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_GlowInk_A.GR2100%  
 	    New File  		  346020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_GlowInk_B.GR2100%  
 	    New File  		  332900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_GlowInk_C.GR2100%  
+	    New File  		  248292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CCrwn_ME.GR2100%  
 	    New File  		   94420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Rath\DGB_M_NKD_Head_Rath_CCrwn_Chin_A.GR2100%  
 	    New File  		  302256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Rath\DGB_M_NKD_Head_Rath_GlowInk_A.GR2100%  
 	    New File  		  345712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Rath\DGB_M_NKD_Head_Rath_GlowInk_B.GR2100%  
@@ -1384,9 +1380,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           821748000 Bytes/sec.
-   Speed :           47020.797 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 5:03:06 AM
+   Speed :           547832000 Bytes/sec.
+   Speed :           31347.198 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:11:08 AM
 
  
 [DEBUG] Counting source files 
