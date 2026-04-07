@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365 
-   Tue 04/07/2026  4:25:05.41 
+   Tue 04/07/2026  5:02:55.27 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -612,7 +612,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 4:25:09 AM
+  Started : Tuesday, April 7, 2026 5:02:58 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -623,7 +623,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     691	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
-	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\thumbnail.png100%  
+	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\thumbnail.png 91%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -632,7 +632,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   844.0 k   844.0 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, April 7, 2026 4:25:09 AM
+
+
+   Speed :           864358000 Bytes/sec.
+   Speed :           49458.961 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:02:58 AM
 
  
 [DEBUG] Counting source files 
@@ -658,7 +662,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 4:25:11 AM
+  Started : Tuesday, April 7, 2026 5:03:00 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -668,20 +672,20 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  458300	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		  620332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :   447.5 k   447.5 k         0         0         0         0
+   Bytes :   605.7 k   605.7 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           458300000 Bytes/sec.
-   Speed :           26224.136 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 4:25:11 AM
+   Speed :           620332000 Bytes/sec.
+   Speed :           35495.681 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:03:00 AM
 
  
 [DEBUG] Counting source files 
@@ -707,7 +711,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 4:25:12 AM
+  Started : Tuesday, April 7, 2026 5:03:02 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -718,22 +722,22 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    6379	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\meta.lsx100%  
-	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\mod_publish_logo.png  0%  100%  
+	    New File  		  863667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\GUI\metadata.lsf100%  
-	    New File  		   32923	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Localization\English\english.xml100%  
+	    New File  		   44587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :   882.9 k   882.9 k         0         0         0         0
+   Bytes :   894.3 k   894.3 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           452055000 Bytes/sec.
-   Speed :           25866.794 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 4:25:12 AM
+   Speed :           457887000 Bytes/sec.
+   Speed :           26200.504 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:03:02 AM
 
  
 [DEBUG] Counting source files 
@@ -759,7 +763,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 4:25:15 AM
+  Started : Tuesday, April 7, 2026 5:03:04 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -769,7 +773,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  315665	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		  426275	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    2798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Krothar\0a161f55-c52a-4ccf-8690-159f1e6fd1fa.lsf100%  
 	    New File  		    2799	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Krothar\2061e38f-110d-44a6-95df-92bce5d5696a.lsf100%  
 	    New File  		    2800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Krothar\645de8cd-1353-4b42-9d3d-057f7f847577.lsf100%  
@@ -794,71 +798,15 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2814	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\55a148f9-ea75-a12d-808a-f79313954eb8.lsf100%  
 	    New File  		    2810	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\aad604f0-cc91-a837-2518-d3c2b78f5d94.lsf100%  
 	    New File  		    2812	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_CCrwn_Rathgor\b562a715-d6f0-7fc0-0ede-7148dc7190f7.lsf100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\04e04e5a-dfe7-4650-9b3c-95fe1d4297cf.lsf100%  
-	    New File  		    2754	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\071198a8-81e4-43a9-a139-21405d401eda.lsf100%  
-	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\0a237214-49cc-44c2-81d8-c0cb02c7cbc3.lsf100%  
-	    New File  		    2755	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\0ebfb9ee-a48a-40a4-810c-e0fbb91217cb.lsf100%  
-	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\18123654-c54d-4dda-9e4d-82083f982222.lsf100%  
-	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\1a8298a8-55a8-41ff-9ceb-11d8a8e0c76d.lsf100%  
-	    New File  		    2753	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\1ad43417-2454-4f52-9e89-de770896ea6f.lsf100%  
-	    New File  		    2908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\1f92e68c-39b8-4e67-839e-8f48b61fb138.lsf100%  
-	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\2bf61f05-3215-42a1-89ce-1c2e263dfb3a.lsf100%  
-	    New File  		    2730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\2d51f500-14f3-4ee9-9a26-f7bb9e46989f.lsf100%  
-	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\2f44909f-0039-44ac-82e6-b67efe0bb81f.lsf100%  
-	    New File  		    2754	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\39f91dbb-6ba5-4d04-bbab-248f613137c9.lsf100%  
-	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\3a540bc7-0394-4f1e-9caf-2b5e5a6bafdc.lsf100%  
-	    New File  		    2908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\3f6b9e25-a795-47b6-adf8-3297a476b511.lsf100%  
-	    New File  		    2728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\47f797e1-46a7-47df-b47d-9f67247cd5ac.lsf100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\48e53f8c-475b-44f8-ad3f-26562eb2cd98.lsf100%  
-	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\4ee3c9a2-d168-4882-bda0-1f8477f97b28.lsf100%  
-	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\55f23035-7910-4857-b4ed-caa41ff667b4.lsf100%  
-	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\56077874-9d0f-4a4b-ac8e-8c5cb7aad71a.lsf100%  
-	    New File  		    2731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\592db7b2-c687-4089-88ba-cb72fbb910f8.lsf100%  
-	    New File  		    2565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\5a6830d4-f40e-42ae-9607-441acfbc104b.lsf100%  
-	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\60adcde1-cfdd-4f4f-9739-951bcfbac686.lsf100%  
-	    New File  		    2731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\639d6f19-ab74-4708-8955-ef5026f67ec0.lsf100%  
-	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\6beb82af-66c3-493a-a6ed-7a98cf797bc1.lsf100%  
-	    New File  		    2564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\709b613a-6783-44b5-b250-151a5292e1a3.lsf100%  
-	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\74a59ed0-938a-48b3-82cd-f62eb9989ffc.lsf100%  
-	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\784153af-37c2-4e54-b903-44c65fc153af.lsf100%  
-	    New File  		    2730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\7beab704-a5a4-4bc9-a0af-fe0bf5003770.lsf100%  
-	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\7dfcff11-292d-439f-8ba4-32b23b5084fb.lsf100%  
-	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\80995400-2512-40b3-82f3-ec82fd8d5bcf.lsf100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\849fdff1-a3b0-42e7-85f6-807a90a6d88d.lsf100%  
-	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\877a8399-4c47-4c46-8ba0-0d55ac8470ba.lsf100%  
-	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\8dd4f602-13b7-418e-8dce-9ec0d0365222.lsf100%  
-	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\90395248-34ad-4860-a7ec-fa8abb016350.lsf100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\94ca9bb7-2945-4c78-91f4-8d691d702dfe.lsf100%  
-	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\968bc3fb-b05a-42a2-ab1c-84210bab1ef8.lsf100%  
-	    New File  		    2904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aa3d0c9a-f754-48a1-98e1-96803ff79030.lsf100%  
-	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aac54e12-8b05-46cd-ad63-43b7eaea484f.lsf100%  
-	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aad74425-cd2b-4739-8788-0b6f149778ee.lsf100%  
 	    New File  		    2593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\057aaea4-36bb-410e-8aa0-88d185eb790a.lsf100%  
-	    New File  		    2906	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aaf5ff86-feec-480a-bcb4-9132c3dd4242.lsf100%  
-	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\ab10e31a-1119-404a-b0aa-8f89dda3674a.lsf100%  
-	    New File  		    2906	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\b7f6b3a9-1a67-4c7d-82d6-223a19c690d2.lsf100%  
 	    New File  		    2593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\08d5ab04-3cce-4140-8371-a3d9f8025ba5.lsf100%  
-	    New File  		    2566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\bf72f617-3c45-4622-9a0f-8d82608101e3.lsf100%  
 	    New File  		    2588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\0a354b22-90ee-4159-9685-f14fab7bc07d.lsf100%  
-	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\c1ad1a31-7cd7-4148-b95b-fbc1d7a1e38f.lsf100%  
 	    New File  		    2943	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\0b030866-52f1-4451-b851-be869f9c87f4.lsf100%  
-	    New File  		    2565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\c9596961-2890-46fb-9a04-859d1e78cae9.lsf100%  
 	    New File  		    2784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\0bd663e3-31d7-4e81-9e49-d07005c7fd4d.lsf100%  
-	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\ce2fb5a7-ae68-42e2-ba8c-4a7d225407e9.lsf100%  
 	    New File  		    2948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\0eff5e99-2c3e-4f28-8d43-e7601acee4ce.lsf100%  
-	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\d27dcc14-9619-45b8-82bf-4081a2c77d0c.lsf100%  
 	    New File  		    2947	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\101b0eba-1ba9-466a-8985-e5e6f020e09b.lsf100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\d886106f-3e9c-4c7f-9a68-1f5b92230080.lsf100%  
 	    New File  		    2943	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\133e16a4-2c45-4167-ab3f-2592244333c2.lsf100%  
 	    New File  		    2761	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\14e0ba8e-01e3-4aaa-bb7c-bfd1cf387c6a.lsf100%  
-	    New File  		    2566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\d9fcee61-1481-48a8-b223-5f3b7758ed30.lsf100%  
-	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\dc7b58d0-eb42-4ba9-a26f-8a117aaad69c.lsf100%  
-	    New File  		    2904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\dd343757-76c6-494a-8cbc-bdb565d5cc97.lsf100%  
-	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\e74a445a-b43d-4555-b733-f96171e87419.lsf100%  
-	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\e9b1ff0f-2312-4e17-8fbb-1748dbf96976.lsf100%  
-	    New File  		    2565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\eaff3e1f-6e49-4a88-ba50-2ecb153f0008.lsf100%  
-	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\ec2d057b-1e2c-425a-b22e-0ec763c26cb5.lsf100%  
-	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\efca7db9-e846-4c33-8f47-bbb886ecf41c.lsf100%  
 	    New File  		    2593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\14f1c3e4-e198-4498-9bef-a8e687268815.lsf100%  
 	    New File  		    2789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\1822d539-cc87-4334-9318-ee75d1f9fc3f.lsf100%  
 	    New File  		    2762	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\1b8c10dd-438a-4f3b-811c-e7f2b76fac47.lsf100%  
@@ -938,6 +886,62 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\f25828c5-11f1-47a3-8f5e-e94c512c29ec.lsf100%  
 	    New File  		    2593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\fabf3ce1-7e38-43d8-965f-7f54280ba663.lsf100%  
 	    New File  		    2593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Krothar\fbee947d-cadf-43aa-be31-11735a6b68a1.lsf100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\04e04e5a-dfe7-4650-9b3c-95fe1d4297cf.lsf100%  
+	    New File  		    2754	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\071198a8-81e4-43a9-a139-21405d401eda.lsf100%  
+	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\0a237214-49cc-44c2-81d8-c0cb02c7cbc3.lsf100%  
+	    New File  		    2755	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\0ebfb9ee-a48a-40a4-810c-e0fbb91217cb.lsf100%  
+	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\18123654-c54d-4dda-9e4d-82083f982222.lsf100%  
+	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\1a8298a8-55a8-41ff-9ceb-11d8a8e0c76d.lsf100%  
+	    New File  		    2753	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\1ad43417-2454-4f52-9e89-de770896ea6f.lsf100%  
+	    New File  		    2908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\1f92e68c-39b8-4e67-839e-8f48b61fb138.lsf100%  
+	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\2bf61f05-3215-42a1-89ce-1c2e263dfb3a.lsf100%  
+	    New File  		    2730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\2d51f500-14f3-4ee9-9a26-f7bb9e46989f.lsf100%  
+	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\2f44909f-0039-44ac-82e6-b67efe0bb81f.lsf100%  
+	    New File  		    2754	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\39f91dbb-6ba5-4d04-bbab-248f613137c9.lsf100%  
+	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\3a540bc7-0394-4f1e-9caf-2b5e5a6bafdc.lsf100%  
+	    New File  		    2908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\3f6b9e25-a795-47b6-adf8-3297a476b511.lsf100%  
+	    New File  		    2728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\47f797e1-46a7-47df-b47d-9f67247cd5ac.lsf100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\48e53f8c-475b-44f8-ad3f-26562eb2cd98.lsf100%  
+	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\4ee3c9a2-d168-4882-bda0-1f8477f97b28.lsf100%  
+	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\55f23035-7910-4857-b4ed-caa41ff667b4.lsf100%  
+	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\56077874-9d0f-4a4b-ac8e-8c5cb7aad71a.lsf100%  
+	    New File  		    2731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\592db7b2-c687-4089-88ba-cb72fbb910f8.lsf100%  
+	    New File  		    2565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\5a6830d4-f40e-42ae-9607-441acfbc104b.lsf100%  
+	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\60adcde1-cfdd-4f4f-9739-951bcfbac686.lsf100%  
+	    New File  		    2731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\639d6f19-ab74-4708-8955-ef5026f67ec0.lsf100%  
+	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\6beb82af-66c3-493a-a6ed-7a98cf797bc1.lsf100%  
+	    New File  		    2564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\709b613a-6783-44b5-b250-151a5292e1a3.lsf100%  
+	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\74a59ed0-938a-48b3-82cd-f62eb9989ffc.lsf100%  
+	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\784153af-37c2-4e54-b903-44c65fc153af.lsf100%  
+	    New File  		    2730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\7beab704-a5a4-4bc9-a0af-fe0bf5003770.lsf100%  
+	    New File  		    2756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\7dfcff11-292d-439f-8ba4-32b23b5084fb.lsf100%  
+	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\80995400-2512-40b3-82f3-ec82fd8d5bcf.lsf100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\849fdff1-a3b0-42e7-85f6-807a90a6d88d.lsf100%  
+	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\877a8399-4c47-4c46-8ba0-0d55ac8470ba.lsf100%  
+	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\8dd4f602-13b7-418e-8dce-9ec0d0365222.lsf100%  
+	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\90395248-34ad-4860-a7ec-fa8abb016350.lsf100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\94ca9bb7-2945-4c78-91f4-8d691d702dfe.lsf100%  
+	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\968bc3fb-b05a-42a2-ab1c-84210bab1ef8.lsf100%  
+	    New File  		    2904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aa3d0c9a-f754-48a1-98e1-96803ff79030.lsf100%  
+	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aac54e12-8b05-46cd-ad63-43b7eaea484f.lsf100%  
+	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aad74425-cd2b-4739-8788-0b6f149778ee.lsf100%  
+	    New File  		    2906	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\aaf5ff86-feec-480a-bcb4-9132c3dd4242.lsf100%  
+	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\ab10e31a-1119-404a-b0aa-8f89dda3674a.lsf100%  
+	    New File  		    2906	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\b7f6b3a9-1a67-4c7d-82d6-223a19c690d2.lsf100%  
+	    New File  		    2566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\bf72f617-3c45-4622-9a0f-8d82608101e3.lsf100%  
+	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\c1ad1a31-7cd7-4148-b95b-fbc1d7a1e38f.lsf100%  
+	    New File  		    2565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\c9596961-2890-46fb-9a04-859d1e78cae9.lsf100%  
+	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\ce2fb5a7-ae68-42e2-ba8c-4a7d225407e9.lsf100%  
+	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\d27dcc14-9619-45b8-82bf-4081a2c77d0c.lsf100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\d886106f-3e9c-4c7f-9a68-1f5b92230080.lsf100%  
+	    New File  		    2566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\d9fcee61-1481-48a8-b223-5f3b7758ed30.lsf100%  
+	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\dc7b58d0-eb42-4ba9-a26f-8a117aaad69c.lsf100%  
+	    New File  		    2904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\dd343757-76c6-494a-8cbc-bdb565d5cc97.lsf100%  
+	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\e74a445a-b43d-4555-b733-f96171e87419.lsf100%  
+	    New File  		    2567	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\e9b1ff0f-2312-4e17-8fbb-1748dbf96976.lsf100%  
+	    New File  		    2565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\eaff3e1f-6e49-4a88-ba50-2ecb153f0008.lsf100%  
+	    New File  		    2909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\ec2d057b-1e2c-425a-b22e-0ec763c26cb5.lsf100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Content\[PAK]_HGlowInk_Rathgor\efca7db9-e846-4c33-8f47-bbb886ecf41c.lsf100%  
 	    New File  		  639388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_CCrwn_MF.GR2100%  
 	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_CCrwn_MF.xml100%  
 	    New File  		  639388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_CCrwn_MF_GemAmethyst.GR2100%  
@@ -1317,13 +1321,13 @@ SECTION 2: COPY OPERATIONS
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        22        22         1         0         0         0
    Files :       542       542         0         0         0         0
-   Bytes :   56.34 m   56.34 m         0         0         0         0
+   Bytes :   56.44 m   56.44 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           542020853 Bytes/sec.
-   Speed :           31014.681 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 4:25:15 AM
+   Speed :           603988602 Bytes/sec.
+   Speed :           34560.505 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:03:04 AM
 
  
 [DEBUG] Counting source files 
@@ -1349,7 +1353,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 7, 2026 4:25:17 AM
+  Started : Tuesday, April 7, 2026 5:03:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\
 
@@ -1359,12 +1363,12 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		  639388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_CCrwn_MF.GR2100%  
+	    New File  		  248292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CCrwn_ME.GR2100%  
 	    New File  		   94600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_CCrwn_Chin_A.GR2100%  
 	    New File  		  302388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_GlowInk_A.GR2100%  
 	    New File  		  346020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_GlowInk_B.GR2100%  
 	    New File  		  332900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Krothar\DGB_M_NKD_Head_Krothar_GlowInk_C.GR2100%  
-	    New File  		  639388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_CCrwn_MF.GR2100%  
-	    New File  		  248292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CCrwn_ME.GR2100%  
 	    New File  		   94420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Rath\DGB_M_NKD_Head_Rath_CCrwn_Chin_A.GR2100%  
 	    New File  		  302256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Rath\DGB_M_NKD_Head_Rath_GlowInk_A.GR2100%  
 	    New File  		  345712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365\DGB_Head_Pack_A_AkELkA\Male\Head_GlowInk\Rath\DGB_M_NKD_Head_Rath_GlowInk_B.GR2100%  
@@ -1380,9 +1384,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           657398400 Bytes/sec.
-   Speed :           37616.638 MegaBytes/min.
-   Ended : Tuesday, April 7, 2026 4:25:17 AM
+   Speed :           821748000 Bytes/sec.
+   Speed :           47020.797 MegaBytes/min.
+   Ended : Tuesday, April 7, 2026 5:03:06 AM
 
  
 [DEBUG] Counting source files 
